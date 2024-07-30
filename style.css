@@ -8,3 +8,9 @@ p {
 /*body {
 	front-
 }*/
+
+body {
+  background-image: url(images/composants_elec.jpg); /* Remplacez 'mon-image.jpg' par le nom de votre image ou son URL */
+  background-size: justify; /* Ajuste l'image pour qu'elle couvre tout l'écran */
+
+}
